@@ -9,7 +9,10 @@ berikut ini screenshot "Angelist Controller" :
 <td><img src="https://bintank23.files.wordpress.com/2014/09/aktivasi.png"></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="3">
+<td><img src="https://bintank23.files.wordpress.com/2014/09/l1.png"></td>
+<td><img src="https://bintank23.files.wordpress.com/2014/09/l1.png"></td>
+</td>
 </tr>
 </table>
 <h1>Tentang Pengembang</h1><hr>
