@@ -1,0 +1,18 @@
+<h1>Tentang Project</h1><hr>
+Project ini merupakan Tugas Akhir milik <a href="https://www.facebook.com/saya.laurensius" target="_blank">Laurensius D.S</a>
+Pada project ini perangkat Android digunakan untuk mengirimkan instruksi ke mobile robot melalui koneksi Bluetooth.
+berikut ini screenshot "Angelist Controller" :
+<table>
+<tr>
+<td><img src="https://bintank23.files.wordpress.com/2014/09/load.png"></td>
+<td><img src="https://bintank23.files.wordpress.com/2014/09/utama.png"></td>
+<td><img src="https://bintank23.files.wordpress.com/2014/09/aktivasi.png"></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</table>
+<h1>Tentang Pengembang</h1><hr>
+<a href="http://about.me/laurensius" target="_blank">Klik di sini </a> untuk melihat profil Laurensius D.S di About.Me<br>
+<a href="https://www.facebook.com/saya.laurensius" target="_blank">Klik di sini </a> untuk melihat profil Laurensius D.S di Facebook<br>
+
