@@ -10,8 +10,8 @@ berikut ini screenshot "Angelist Controller" :
 </tr>
 <tr>
 <td colspan="3">
-<td><img src="https://bintank23.files.wordpress.com/2014/09/l1.png"></td>
-<td><img src="https://bintank23.files.wordpress.com/2014/09/l1.png"></td>
+<img src="https://bintank23.files.wordpress.com/2014/09/l1.png">
+<img src="https://bintank23.files.wordpress.com/2014/09/l1.png">
 </td>
 </tr>
 </table>
