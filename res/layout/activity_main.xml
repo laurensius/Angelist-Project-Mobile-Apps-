@@ -1,0 +1,144 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".MainActivity" 
+    android:orientation="vertical">
+    
+    <LinearLayout
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+	    
+	    <LinearLayout
+	        android:gravity="center_horizontal"
+	        android:orientation="horizontal"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content">
+	        <ImageButton
+	            android:background="#00000000"
+	            android:padding="0dp"
+		        android:id="@+id/btnMaju"
+		        android:contentDescription="@string/btnMaju"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:src="@drawable/maju" >
+		    </ImageButton>
+	    </LinearLayout>
+	    
+		<LinearLayout
+	        android:gravity="center_horizontal" 
+	        android:orientation="horizontal"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content">
+	        <ImageButton
+	            android:background="#00000000"
+	            android:padding="0dp"
+		        android:id="@+id/btnKiri"
+		        android:contentDescription="@string/btnKiri"
+		        android:layout_width="80dp"
+		        android:layout_height="80dp"
+		        android:src="@drawable/kiri" >
+		    </ImageButton>
+		    <ImageButton
+	            android:background="#00000000"
+		        android:padding="0dp"
+		        android:id="@+id/btnStop"
+		        android:contentDescription="@string/btnStop"
+		        android:layout_width="80dp"
+		        android:layout_height="80dp"
+		        android:src="@drawable/stop" >
+		    </ImageButton>
+		    <ImageButton
+	            android:background="#00000000"
+		        android:padding="0dp"
+		        android:id="@+id/btnKanan"
+		        android:contentDescription="@string/btnKanan"
+		        android:layout_width="80dp"
+		        android:layout_height="80dp"
+		        android:src="@drawable/kanan" >
+		    </ImageButton>
+	    </LinearLayout>
+	    
+	    <LinearLayout
+	        android:gravity="center_horizontal" 
+	        android:orientation="horizontal"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content">
+	        <ImageButton
+	            android:background="#00000000"
+	            android:padding="0dp"
+		        android:id="@+id/btnMundur"
+		        android:contentDescription="@string/btnMundur"
+		        android:layout_width="80dp"
+		        android:layout_height="80dp"
+		        android:src="@drawable/mundur" >
+		    </ImageButton>
+	    </LinearLayout>
+	    
+	    
+	    <LinearLayout
+	        android:gravity="center_horizontal" 
+	        android:orientation="horizontal"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content">
+	        <Button
+		        android:id="@+id/btnAtas"
+		        android:layout_width="80dp"
+		        android:layout_height="80dp"
+		        android:text="@string/btnAtas">        
+		    </Button>
+		    <Button
+		        android:id="@+id/btnPutarPlus"
+		        android:layout_width="80dp"
+		        android:layout_height="80dp"
+		        android:text="@string/btnPutarPlus">        
+		    </Button>
+		    <Button
+		        android:id="@+id/btnBuka"
+		        android:layout_width="80dp"
+		        android:layout_height="80dp"
+		        android:text="@string/btnBuka">        
+		    </Button>
+	    </LinearLayout>
+	    <LinearLayout
+	        android:gravity="center_horizontal" 
+	        android:orientation="horizontal"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content">
+	        <Button
+		        android:id="@+id/btnBawah"
+		        android:layout_width="80dp"
+		        android:layout_height="80dp"
+		        android:text="@string/btnBawah">        
+		    </Button>
+		    <Button
+		        android:id="@+id/btnPutarMinus"
+		        android:layout_width="80dp"
+		        android:layout_height="80dp"
+		        android:text="@string/btnPutarMinus">        
+		    </Button>
+		    <Button
+		        android:id="@+id/btnTutup"
+		        android:layout_width="80dp"
+		        android:layout_height="80dp"
+		        android:text="@string/btnTutup">        
+		    </Button>
+	    </LinearLayout>
+	    
+	    <LinearLayout
+	        android:gravity="center_horizontal" 
+	        android:orientation="horizontal"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content">
+	    	<WebView 
+		        android:id="@+id/myWV"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content">    
+	    	</WebView>    
+	    </LinearLayout>
+	    
+    </LinearLayout>
+</ScrollView>

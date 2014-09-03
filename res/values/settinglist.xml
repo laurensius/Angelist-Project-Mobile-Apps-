@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pilihan_menu">
+        <item>Cek Kondisi Bluetooth</item>
+        <item>Cara Menggunakan Aplikasi</item>
+        <item>Tentang Pengembang</item>
+    </string-array>
+</resources>

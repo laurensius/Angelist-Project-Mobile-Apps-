@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tugas AKhir</string>
+    <string name="menu_settings">Settings</string>
+    <string name="btnMaju">Maju</string>
+    <string name="btnMundur">Mundur</string>
+    <string name="btnKiri">Kiri</string>
+    <string name="btnKanan">Kanan</string>
+	<string name="btnStop">Stop</string>
+	
+	<string name="btnAtas">Atas</string>
+	<string name="btnBawah">Bawah</string>
+	<string name="btnPutarPlus">+</string>
+	<string name="btnPutarMinus">-</string>
+	<string name="btnBuka">Buka</string>
+	<string name="btnTutup">Tutup</string>
+</resources>
